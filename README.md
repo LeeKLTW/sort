@@ -1,7 +1,7 @@
 # sort
 Classic sorting algorithms implemented in C++.
 
-- [ ] Bubble sort
+- [x] Bubble sort
 - [ ] Insertion sort
 - [ ] Selection sort
 - [ ] Quick sort
