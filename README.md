@@ -7,6 +7,6 @@ Classic sorting algorithms implemented in C++.
 ## todo list
 - [x] Bubble sort
 - [x] Insertion sort
-- [ ] Selection sort
+- [x] Selection sort
 - [ ] Quick sort
 - [ ] Merge sort
